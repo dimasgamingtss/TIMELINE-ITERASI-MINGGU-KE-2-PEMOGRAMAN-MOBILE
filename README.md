@@ -1,31 +1,47 @@
+Berikut adalah teks yang telah dirapikan untuk README.md kamu:
+
+---
+
 # POS App - Aplikasi Point of Sales Sederhana
-Laporan Kemajuan Iterasi Mingguan (Revisi berdasarkan klarifikasi)
-Aplikasi POS Sederhana MVP
+
+**Laporan Kemajuan Iterasi Mingguan (Revisi berdasarkan klarifikasi)**
+
+**Aplikasi POS Sederhana MVP**
 Nama: Muhammad Dimas Arya Nugroho
 NIM: 221240001316
 Minggu ke: 2 (dari 6)
 
-Periode: [Tanggal Mulai Minggu 2] - [Tanggal Selesai Minggu 2]
+**Periode**: \[Tanggal Mulai Minggu 2] - \[Tanggal Selesai Minggu 2]
 
-Rangkuman Aktivitas dan Output Minggu 2: Implementasi Inti dan Dokumentasi Awal
-Tujuan Utama Minggu Ini (berdasarkan progres aktual):
-Mengimplementasikan sebagian besar fitur inti MVP yang telah direncanakan (Autentikasi, Tambah & Lihat Produk, Transaksi Penjualan, Laporan Ringkas).
-Membuat dokumentasi awal proyek (README.md) yang menjelaskan fitur, teknologi, dan cara penggunaan.
-Memastikan fungsionalitas dasar aplikasi yang sudah ada berjalan sesuai harapan.
-Task Minggu Ini dan Status Penyelesaian (Berdasarkan Progres Aktual & Klarifikasi):
-No	Kode Task	Deskripsi Task	Status
-1	T-IMP-AUTH	Implementasi fitur Registrasi, Login, Logout dengan hashing password.	✅ Done
-2	T-IMP-PROD-ADDVIEW	Implementasi fitur Tambah Produk & Lihat Daftar Produk.	✅ Done
-3	T-IMP-PROD-STOCK	Implementasi update stok otomatis setelah transaksi.	✅ Done
-4	T-IMP-TRX	Implementasi fitur Transaksi (Keranjang, Kalkulasi, Validasi Stok, Simpan).	✅ Done
-5	T-IMP-REP-DASH	Implementasi Dashboard ringkasan penjualan harian.	✅ Done
-6	T-IMP-REP-HISTLIST	Implementasi tampilan daftar Riwayat Transaksi (tanpa detail).	✅ Done
-7	T-DOC-READ	Membuat README.md komprehensif untuk proyek.	✅ Done
-8	T-STR-PROJ	Menetapkan dan mengimplementasikan struktur proyek (models, services, screens).	✅ Done
-9	T-TECH-SEL	Memilih dan mengimplementasikan teknologi (Flutter, Shared Prefs, Crypto).	✅ Done
-Fitur yang Belum Selesai (atau Di Luar Scope Awal MVP):			
-10	T-IMP-PROD-EDIT	Implementasi fitur Edit Produk yang sudah ada.	❌ Not Started
-11	T-IMP-REP-HISTDETAIL	Implementasi Lihat Detail untuk setiap Riwayat Transaksi.	❌ Not Started
+### Rangkuman Aktivitas dan Output Minggu 2: Implementasi Inti dan Dokumentasi Awal
+
+**Tujuan Utama Minggu Ini (berdasarkan progres aktual):**
+
+* Mengimplementasikan sebagian besar fitur inti MVP yang telah direncanakan (Autentikasi, Tambah & Lihat Produk, Transaksi Penjualan, Laporan Ringkas).
+* Membuat dokumentasi awal proyek (README.md) yang menjelaskan fitur, teknologi, dan cara penggunaan.
+* Memastikan fungsionalitas dasar aplikasi yang sudah ada berjalan sesuai harapan.
+
+### Task Minggu Ini dan Status Penyelesaian (Berdasarkan Progres Aktual & Klarifikasi):
+
+| No | Kode Task          | Deskripsi Task                                                                  | Status |
+| -- | ------------------ | ------------------------------------------------------------------------------- | ------ |
+| 1  | T-IMP-AUTH         | Implementasi fitur Registrasi, Login, Logout dengan hashing password.           | ✅ Done |
+| 2  | T-IMP-PROD-ADDVIEW | Implementasi fitur Tambah Produk & Lihat Daftar Produk.                         | ✅ Done |
+| 3  | T-IMP-PROD-STOCK   | Implementasi update stok otomatis setelah transaksi.                            | ✅ Done |
+| 4  | T-IMP-TRX          | Implementasi fitur Transaksi (Keranjang, Kalkulasi, Validasi Stok, Simpan).     | ✅ Done |
+| 5  | T-IMP-REP-DASH     | Implementasi Dashboard ringkasan penjualan harian.                              | ✅ Done |
+| 6  | T-IMP-REP-HISTLIST | Implementasi tampilan daftar Riwayat Transaksi (tanpa detail).                  | ✅ Done |
+| 7  | T-DOC-READ         | Membuat README.md komprehensif untuk proyek.                                    | ✅ Done |
+| 8  | T-STR-PROJ         | Menetapkan dan mengimplementasikan struktur proyek (models, services, screens). | ✅ Done |
+| 9  | T-TECH-SEL         | Memilih dan mengimplementasikan teknologi (Flutter, Shared Prefs, Crypto).      | ✅ Done |
+
+### Fitur yang Belum Selesai (atau Di Luar Scope Awal MVP):
+
+| No | Kode Task            | Deskripsi Task                                            | Status        |
+| -- | -------------------- | --------------------------------------------------------- | ------------- |
+| 10 | T-IMP-PROD-EDIT      | Implementasi fitur Edit Produk yang sudah ada.            | ❌ Not Started |
+| 11 | T-IMP-REP-HISTDETAIL | Implementasi Lihat Detail untuk setiap Riwayat Transaksi. | ❌ Not Started |
+
 
 Aplikasi Point of Sales (POS) sederhana yang dibangun dengan Flutter dan dapat dijalankan di web browser (Chrome) maupun mobile.
 
